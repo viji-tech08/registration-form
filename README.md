@@ -48,7 +48,7 @@ This project was created as a practice project to learn form validation and Java
 
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
-3. Open the `index.html` file using the Live Server extension, or open it directly in a web browser.
+3. Open the https://viji-tech08.github.io/registration-form/ file using the Live Server extension, or open it directly in a web browser.
 4. Enter your Name, Email Address, and Password.
 5. Check the validation messages and submit the form when all fields are valid.
 
